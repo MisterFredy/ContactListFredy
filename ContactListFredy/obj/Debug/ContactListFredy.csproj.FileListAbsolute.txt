@@ -1,0 +1,10 @@
+D:\XAMPP\htdocs\asp\winamp\ContactListFredy\ContactListFredy\obj\Debug\ContactListFredy.csprojAssemblyReference.cache
+D:\XAMPP\htdocs\asp\winamp\ContactListFredy\ContactListFredy\obj\Debug\ContactListFredy.Form1.resources
+D:\XAMPP\htdocs\asp\winamp\ContactListFredy\ContactListFredy\obj\Debug\ContactListFredy.Properties.Resources.resources
+D:\XAMPP\htdocs\asp\winamp\ContactListFredy\ContactListFredy\obj\Debug\ContactListFredy.csproj.GenerateResource.cache
+D:\XAMPP\htdocs\asp\winamp\ContactListFredy\ContactListFredy\obj\Debug\ContactListFredy.csproj.CoreCompileInputs.cache
+D:\XAMPP\htdocs\asp\winamp\ContactListFredy\ContactListFredy\bin\Debug\ContactListFredy.exe.config
+D:\XAMPP\htdocs\asp\winamp\ContactListFredy\ContactListFredy\bin\Debug\ContactListFredy.exe
+D:\XAMPP\htdocs\asp\winamp\ContactListFredy\ContactListFredy\bin\Debug\ContactListFredy.pdb
+D:\XAMPP\htdocs\asp\winamp\ContactListFredy\ContactListFredy\obj\Debug\ContactListFredy.exe
+D:\XAMPP\htdocs\asp\winamp\ContactListFredy\ContactListFredy\obj\Debug\ContactListFredy.pdb
